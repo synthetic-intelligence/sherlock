@@ -7,6 +7,7 @@ Giphy
 HackerEarth
 Heavy-R
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
