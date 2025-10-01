@@ -1,5 +1,6 @@
 APClips
 Audiojungle
+Chatujme.cz
 Coders Rank
 CyberDefenders
 GNOME VCS
@@ -24,4 +25,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
