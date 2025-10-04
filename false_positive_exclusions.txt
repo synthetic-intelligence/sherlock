@@ -1,16 +1,16 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
-Eintracht Frankfurt Forum
+DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
-LiveJournal
+LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -24,3 +24,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
