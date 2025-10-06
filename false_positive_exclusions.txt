@@ -13,9 +13,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
+Weebly
 YandexMusic
 kaskus
-opennet
 svidbook
