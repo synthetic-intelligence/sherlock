@@ -1,11 +1,10 @@
 APClips
-Carbonmade
 Coders Rank
+Cults3D
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
