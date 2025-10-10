@@ -1,6 +1,5 @@
 APClips
 Coders Rank
-Cults3D
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,6 +9,7 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Topcoder
