@@ -1,11 +1,13 @@
 APClips
 Coders Rank
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
+HackerNews
 Heavy-R
+LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -15,5 +17,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
