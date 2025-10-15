@@ -3,7 +3,6 @@ BreachSta.rs Forum
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -13,5 +12,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
+programming.dev
 svidbook
-xHamster
