@@ -1,11 +1,10 @@
 APClips
-Coders Rank
+BreachSta.rs Forum
+Cults3D
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
-HackerRank
-Heavy-R
+LiveJournal
 LushStories
 PocketStars
 Reddit
@@ -13,7 +12,8 @@ RocketTube
 RuneScape
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
+phpRU
 svidbook
-xHamster
