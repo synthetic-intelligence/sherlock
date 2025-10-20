@@ -1,6 +1,5 @@
 APClips
 BreachSta.rs Forum
-CGTrader
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -11,7 +10,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 opennet
