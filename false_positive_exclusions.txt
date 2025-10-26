@@ -1,8 +1,7 @@
 APClips
-Anilist
+Audiojungle
 Coders Rank
 DeviantArt
-GNOME VCS
 Giphy
 LushStories
 PocketStars
@@ -15,4 +14,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
