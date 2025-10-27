@@ -1,7 +1,7 @@
 APClips
-Audiojungle
 Coders Rank
 DeviantArt
+GNOME VCS
 Giphy
 LushStories
 PocketStars
@@ -12,5 +12,4 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
