@@ -1,12 +1,11 @@
 APClips
+CGTrader
 Coders Rank
-Cracked Forum
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
+LiveJournal
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,5 +14,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
+xHamster
