@@ -1,5 +1,4 @@
 APClips
-Archive.org
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -8,6 +7,7 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Trovo
