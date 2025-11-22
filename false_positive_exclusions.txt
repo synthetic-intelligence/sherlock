@@ -1,7 +1,7 @@
 APClips
 Archive.org
+Coders Rank
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 LushStories
@@ -14,6 +14,4 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
-phpRU
 svidbook
