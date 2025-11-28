@@ -3,6 +3,7 @@ Archive.org
 Coders Rank
 DeviantArt
 GNOME VCS
+GeeksforGeeks
 Giphy
 LushStories
 PocketStars
@@ -13,5 +14,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+hunting
 opennet
 svidbook
