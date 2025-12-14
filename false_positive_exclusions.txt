@@ -8,8 +8,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -21,5 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
 xHamster
