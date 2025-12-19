@@ -1,6 +1,6 @@
 APClips
 Archive.org
-CGTrader
+Audiojungle
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -8,8 +8,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-LushStories
 Minecraft
 PocketStars
 Reddit
