@@ -1,14 +1,15 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Minecraft
+LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Scribd
@@ -17,6 +18,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
