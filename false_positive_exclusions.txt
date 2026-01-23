@@ -1,19 +1,16 @@
 APClips
+Archive of Our Own
 Archive.org
-BoardGameGeek
-CGTrader
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
+Gumroad
 Hubski
-LiveJournal
+Itch.io
 LushStories
 Minecraft
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -23,7 +20,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
