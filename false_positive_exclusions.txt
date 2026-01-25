@@ -1,9 +1,10 @@
 APClips
-Anilist
 Archive.org
-Audiojungle
 Code Snippet Wiki
+DeviantArt
+Eintracht Frankfurt Forum
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -17,6 +18,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
