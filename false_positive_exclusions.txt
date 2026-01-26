@@ -2,13 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,6 +21,5 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
