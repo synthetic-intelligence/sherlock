@@ -9,6 +9,7 @@ Giphy
 Hubski
 Itch.io
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -21,7 +22,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-igromania
 mercadolivre
 opennet
 phpRU
