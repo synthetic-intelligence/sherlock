@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,8 +9,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -22,7 +21,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
