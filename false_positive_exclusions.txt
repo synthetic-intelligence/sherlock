@@ -2,12 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Discord
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 PocketStars
 Realmeye
 Reddit
@@ -20,7 +20,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
