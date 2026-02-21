@@ -5,6 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -18,11 +19,13 @@ SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
 Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
