@@ -5,11 +5,11 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -19,7 +19,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 Trovo
 TryHackMe
 Weblate
@@ -28,4 +27,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
