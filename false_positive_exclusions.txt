@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -15,8 +14,8 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
@@ -26,6 +25,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
