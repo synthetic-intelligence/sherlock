@@ -8,11 +8,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
-Minecraft
 Patched
 PocketStars
+Rarible
 Realmeye
 Reddit
 RocketTube
@@ -31,4 +30,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
