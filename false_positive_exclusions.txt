@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Codolio
+Cults3D
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -17,8 +18,10 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
