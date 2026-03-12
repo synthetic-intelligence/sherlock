@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Codolio
 DeviantArt
 GNOME VCS
@@ -22,6 +21,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
@@ -31,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
