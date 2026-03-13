@@ -7,10 +7,12 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,10 +26,11 @@ Spotify
 Strava
 Trovo
 TryHackMe
+Venmo
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
