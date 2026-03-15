@@ -20,6 +20,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -27,7 +28,8 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+threads
+xHamster
