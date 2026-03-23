@@ -7,7 +7,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -16,6 +16,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -26,6 +27,7 @@ Weblate
 YandexMusic
 mercadolivre
 minds
+nnRU
 opennet
 phpRU
 svidbook
