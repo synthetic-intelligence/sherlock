@@ -2,7 +2,6 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,6 +19,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
