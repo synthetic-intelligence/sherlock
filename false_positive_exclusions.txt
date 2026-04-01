@@ -5,11 +5,11 @@ Codolio
 Discord.bio
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -31,4 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster
