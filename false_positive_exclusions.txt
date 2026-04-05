@@ -1,19 +1,20 @@
 7Cups
 APClips
 Archive.org
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -33,3 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
