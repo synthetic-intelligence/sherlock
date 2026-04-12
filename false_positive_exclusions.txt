@@ -2,7 +2,6 @@
 APClips
 Archive.org
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -25,13 +24,13 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
