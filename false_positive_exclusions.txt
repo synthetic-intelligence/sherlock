@@ -3,7 +3,9 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -14,7 +16,7 @@ LushStories
 Minecraft
 Patched
 PocketStars
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,12 +27,14 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
