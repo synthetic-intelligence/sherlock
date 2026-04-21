@@ -10,9 +10,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
-PocketStars
 Pornhub
 Rarible
 Realmeye
@@ -25,12 +23,13 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
