@@ -10,10 +10,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LushStories
-Outgress
 Patched
 Rarible
 Realmeye
@@ -33,7 +33,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
