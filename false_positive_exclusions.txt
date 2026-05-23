@@ -2,6 +2,7 @@
 APClips
 Airliners
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
@@ -18,6 +19,7 @@ Pornhub
 Rarible
 Realmeye
 Reddit
+Replit.com
 RocketTube
 Scribd
 Shelf
@@ -37,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
