@@ -5,13 +5,12 @@ Archive.org
 Bandcamp
 Codolio
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
-LessWrong
 Patched
 Rarible
 Realmeye
@@ -24,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Weblate
