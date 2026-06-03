@@ -4,7 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -13,9 +13,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LiveJournal
+Minecraft
 OurDJTalk
 Patched
 Pornhub
@@ -24,12 +23,9 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
-Slack
 SlideShare
-Smule
 Splice
 Spotify
 Trovo
