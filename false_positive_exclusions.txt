@@ -5,16 +5,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+Minecraft
+Odysee
 Patched
 Pornhub
 Rarible
@@ -27,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -40,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
