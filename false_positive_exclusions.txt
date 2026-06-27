@@ -4,8 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,7 +15,8 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
+Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,8 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
