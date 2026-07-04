@@ -15,9 +15,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -39,11 +37,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
