@@ -15,6 +15,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -30,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
@@ -41,6 +41,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
