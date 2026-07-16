@@ -1,17 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,6 +17,7 @@ Hubski
 LessWrong
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -37,11 +35,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
