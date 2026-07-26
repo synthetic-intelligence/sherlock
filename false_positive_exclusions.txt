@@ -14,7 +14,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -31,6 +30,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
