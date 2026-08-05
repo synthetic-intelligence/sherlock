@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-CGTrader
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 Odysee
 PCGamer
 Patched
@@ -48,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
