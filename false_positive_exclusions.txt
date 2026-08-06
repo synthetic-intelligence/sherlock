@@ -1,13 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -20,16 +17,15 @@ Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 ReverbNation
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
