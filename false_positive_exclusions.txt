@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -12,12 +13,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -26,10 +27,12 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -40,6 +43,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
