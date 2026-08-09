@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -16,7 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -31,13 +31,13 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
