@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,14 +14,11 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -36,11 +34,11 @@ SlideShare
 Splice
 Spotify
 Star Citizen
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -51,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
