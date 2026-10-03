@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -28,7 +27,6 @@ ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -56,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
