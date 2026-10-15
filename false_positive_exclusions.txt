@@ -26,7 +26,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Pornhub
 Rarible
 Realmeye
@@ -54,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
