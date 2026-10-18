@@ -1,15 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -23,7 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Lobsters
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,6 +37,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
