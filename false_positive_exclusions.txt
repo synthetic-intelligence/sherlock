@@ -1,11 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blipfoto
+Blogger
 CGTrader
+Carrd
 Championat
 Chatujme.cz
 ChaturBate
@@ -22,10 +24,11 @@ Houzz
 Hubski
 Instapaper
 Linktree
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,11 +43,11 @@ Trakt
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
@@ -52,3 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
