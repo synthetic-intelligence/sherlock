@@ -10,12 +10,10 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,7 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
