@@ -11,12 +11,14 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
+HackerOne
 Hashnode
 Hubski
 Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -42,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
