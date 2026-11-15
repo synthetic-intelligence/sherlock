@@ -2,7 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -17,7 +16,9 @@ Instapaper
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -36,6 +37,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
