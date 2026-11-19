@@ -1,26 +1,23 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
 Chatujme.cz
 Codolio
-DEV Community
+DeviantArt
 Discord.bio
+Flipboard
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
-Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -28,6 +25,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
@@ -46,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
